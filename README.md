@@ -6,6 +6,6 @@ This team consists of:\
 Anatolii Rudenko  - 2739368 - a.rudenko@student.vu.nl \
 Roman Dotsenko    - 2740371 - r.dotsenko@student.vu.nl \
 David Bukva       - 2745721 - d.b.bukva@student.vu.nl \
-Gergely Horvath   - 2728933 - g.horvath@student.vu.nl \
+Gergely Horvath   - 2728933 - g.horvath@student.vu.nl 
 
 We chose the MyTamagotchi project, which will be discussed below.
